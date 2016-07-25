@@ -4,6 +4,7 @@ import java.io.*;
 
 
 //some comments
+//some more changes
 public class CompareTwo {
 	static String arrayLines1[] = new String[10];
 	static String arrayLines2[] = new String[10];
