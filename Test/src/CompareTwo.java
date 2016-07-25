@@ -2,11 +2,13 @@ package src;
 
 import java.io.*;
 
+
+//some comments
 public class CompareTwo {
 	static String arrayLines1[] = new String[10];
 	static String arrayLines2[] = new String[10];
 	public static void main(String args[]) throws Exception {
-		
+
 		String contents1 = null;
 		String contents2 = null;
 
