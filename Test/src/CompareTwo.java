@@ -6,6 +6,7 @@ import java.io.*;
 //some comments
 //some more changes
 //commit for new branch123
+//commit after tag
 public class CompareTwo {
 	static String arrayLines1[] = new String[10];
 	static String arrayLines2[] = new String[10];
